@@ -14,3 +14,5 @@ Features to come:
 -Better GUI
 -Color options
 
+-you will enter the sets and repetitions you have to do and this software will inform you by changing colors and playing sounds
+  and you can enter the rest times in between too
