@@ -6,3 +6,11 @@ When you cover a part of your workout tool with blue and then workout with it in
 If it counted, it will wait for 2.5 seconds and then continue.
 
 Basically how this works is...
+
+
+Features to come:
+-Reset button
+-After a specific number, it will play a sound(to remind you've completed the set of repetitions)
+-Better GUI
+-Color options
+
